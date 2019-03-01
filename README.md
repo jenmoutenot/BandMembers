@@ -1,6 +1,6 @@
 # BandMembers
 
-Write program that handles Band Member objects using a hard code of script that will run through the code to test what the CLI object chooses out of the 3 options to print:
+Program that handles Band Member objects using a hard code of script that will run through the code to test what the CLI object chooses out of the 3 options to print:
 - 1. the entire band
 - 2. the band members with a given name
 - the band member who plays a given instrument
